@@ -1,6 +1,6 @@
 <img align="center" alt="Web" width="1000" src="https://i.ibb.co/6JrDPsM/1-x-OELk-Xpew-XA7u-ff-Gev-CA.gif" >
-<h1 align="center">👋 Hello, I'm Shariful Islam, a passionate frontend developer hailing from Bangladesh 🇧🇩. With a solid foundation in Computer Science, I specialize in building web applications using the MERN stack.</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh 🇧🇩</h3>
+<h1 align="center">👋 Hello, I'm Shariful Islam, a passionate frontend developer hailing from Bangladesh ,With a solid foundation in Computer Science, I specialize in building web applications using the MERN stack.</h1>
+<h3 align="center">Enthusiastically crafting MERN stack solutions for a dynamic and responsive web. Transforming ideas into seamless digital experiences through the power of MongoDB, Express.js, React, and Node.js.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
