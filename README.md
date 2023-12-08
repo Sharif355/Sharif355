@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="24712882" data-share-method="host" data-aspect-ratio="1.56098" data-width="100%"><a href="https://tenor.com/view/web-dev-website-development-website-designing-the-site-helpers-gif-24712882">Web Dev Website Development GIF</a>from <a href="https://tenor.com/search/web+dev-gifs">Web Dev GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/web-dev-website-development-website-designing-the-site-helpers-gif-24712882">
 <h1 align="center">Hi 👋, I'm Shariful Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh 🇧🇩</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
