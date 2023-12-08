@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **React,Node.js, Firebase etc.**
 
-- 📫 You can reach me <a href="mailto:isharif766@gmail.com" target="blank">Here</a>
+- 📫 You can reach me <a href="mailto:isharif766@gmail.com" target="blank">Here.</a>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JdTaDsuwQqLtnKgzzlXNve0UGZJ1OnIV/view?usp=sharing](https://drive.google.com/file/d/1JdTaDsuwQqLtnKgzzlXNve0UGZJ1OnIV/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1JdTaDsuwQqLtnKgzzlXNve0UGZJ1OnIV/view?usp=sharing)
 
 - ⚡ Fun fact: **I'm an avid hiker and have conquered several challenging trails, finding inspiration in nature to balance the digital world of coding and web development.**
 
