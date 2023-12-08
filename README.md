@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Next.js, Mongoose, Axios.**
 
-- 📝 I regularly write articles on <a href="https://medium.com/@isharif766" >Medium.<a/> 
-
 - 💬 Ask me about **React,Node.js, Firebase etc.**
+
+- 📝 I regularly write articles on <a href="https://medium.com/@isharif766" >Medium.<a/> 
 
 - 📫 You can reach me <a href="mailto:isharif766@gmail.com" target="blank">Here.</a>
 
