@@ -6,15 +6,13 @@
 
 - 🌱 I’m currently learning **Next.js, Mongoose, Axios.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sharif355](https://github.com/Sharif355)
-
-- 📝 I regularly write articles on [https://medium.com/@isharif766](https://medium.com/@isharif766)
+- 📝 I regularly write articles on <a href="https://medium.com/@isharif766" >Medium.<a/> 
 
 - 💬 Ask me about **React,Node.js, Firebase etc.**
 
 - 📫 You can reach me <a href="mailto:isharif766@gmail.com" target="blank">Here.</a>
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1JdTaDsuwQqLtnKgzzlXNve0UGZJ1OnIV/view?usp=sharing)
+- 📄 Know about my <a href="https://drive.google.com/file/d/1JdTaDsuwQqLtnKgzzlXNve0UGZJ1OnIV/view?usp=sharing" >Experiences.<a/>
 
 - ⚡ Fun fact: **I'm an avid hiker and have conquered several challenging trails, finding inspiration in nature to balance the digital world of coding and web development.**
 
