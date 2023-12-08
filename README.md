@@ -12,15 +12,13 @@
 
 - 💬 Ask me about **React,Node.js, Firebase etc.**
 
-- 📫 How to reach me **isharif766@gmail.com**
+- 📫 How to reach me <a href="isharif766@gmail.com" target="blank"></a>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JdTaDsuwQqLtnKgzzlXNve0UGZJ1OnIV/view?usp=sharing](https://drive.google.com/file/d/1JdTaDsuwQqLtnKgzzlXNve0UGZJ1OnIV/view?usp=sharing)
 
 - ⚡ Fun fact: **I'm an avid hiker and have conquered several challenging trails, finding inspiration in nature to balance the digital world of coding and web development.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
