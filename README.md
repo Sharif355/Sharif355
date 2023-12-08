@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React,Node.js, Firebase etc.**
 
-- 📫 How to reach me <a href="isharif766@gmail.com" target="blank">Click Here</a>
+- 📫 You can reach me <a href="mailto:isharif766@gmail.com" target="blank">Here</a>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JdTaDsuwQqLtnKgzzlXNve0UGZJ1OnIV/view?usp=sharing](https://drive.google.com/file/d/1JdTaDsuwQqLtnKgzzlXNve0UGZJ1OnIV/view?usp=sharing)
 
