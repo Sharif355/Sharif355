@@ -1,5 +1,6 @@
 <img align="center" alt="Web" width="600" src="https://i.gifer.com/6MX.gif" >
 <h1 align="center">Hi 👋, I'm Shariful Islam</h1>
+<h1 align="center">Hi 👋, I'm Shariful Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh 🇧🇩</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
