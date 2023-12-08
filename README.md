@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/web-dev-website-development-website-designing-the-site-helpers-gif-24712882">
+<img align="center" alt="Coding" width="400" src="https://tenor.com/view/web-dev-website-development-website-designing-the-site-helpers-gif-24712882">
 <h1 align="center">Hi 👋, I'm Shariful Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh 🇧🇩</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
